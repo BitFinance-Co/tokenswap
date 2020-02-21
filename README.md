@@ -1,4 +1,6 @@
 
+![Brand](docs/image/cryptocurrency-exchange-logo.png)
+
 # TokenSwap (Uniswap) Exchange Frontend
 
 ####  Nordic Energy´s TokenSwap a protocol for automated token exchange on Ethereum (ERC-20) and Nordic Energy Tokens.
