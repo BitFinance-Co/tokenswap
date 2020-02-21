@@ -3,7 +3,7 @@
 
 ####  Nordic Energy´s TokenSwap a protocol for automated token exchange on Ethereum (ERC-20) and Nordic Energy Tokens.
 
-Designed with simplicity in mind, the TokenSwap protocol provides an interface for seamless exchange of Nordic Energy and Ethereum tokens. By eliminating unnecessary forms of rent extraction and middlemen it allows faster, more efficient exchange. Where it makes tradeoffs, decentralization, censorship resistance, and security are prioritized. TokenSwap is forked TokenSwap open source and functions as a public good. There is no central token or platform fee. No special treatment is given to early investors, adopters, or developers. Token listing is open and free. All smart contract functions are public and all upgrades are opt-in.
+The Nordic Energy´s TokenSwap protocol provides an interface for seamless exchange of Nordic Energy and Ethereum (ERC20) tokens. By eliminating unnecessary forms of rent extraction and middlemen it allows faster, more efficient exchange. Where it makes tradeoffs, decentralization, censorship resistance, and security are prioritized. TokenSwap is forked TokenSwap open source and functions as a public good. There is no central token or platform fee. No special treatment is given to early investors, adopters, or developers. Token listing is open and free. All smart contract functions are public and all upgrades are opt-in.
 
 This site will serve as a project overview for TokenSwap - explaining how it works, how to use it, and how to build on top of it. These docs are actively being worked on and more information will be added on an ongoing basis.
 
