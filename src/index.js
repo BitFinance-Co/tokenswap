@@ -24,7 +24,7 @@ ReactGA.pageview(window.location.pathname + window.location.search)
 
 const { NetworkOnlyConnector } = Connectors
 const Injected = new InjectedConnector({ supportedNetworks: [Number(process.env.REACT_APP_NETWORK_ID || '1')] })
-const Network = new NetworkOnlyConnector({ providerURL: process.env.REACT_APP_NETWORK_URL || 'https://uniswap.nordicenergy.co' })
+const Network = new NetworkOnlyConnector({ providerURL: process.env.REACT_APP_NETWORK_URL || 'https://mainnet.infura.io/v3/1fda4e6f00554d6abb0a77319097c08c' })
 const connectors = { Injected, Network }
 
 function ContextProviders({ children }) {
