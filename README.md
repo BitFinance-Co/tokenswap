@@ -1,5 +1,5 @@
 
-![Brand](docs/image/cryptocurrency-exchange-logo.png)
+![Brand](docs/images/cryptocurrency-exchange-logo.png)
 
 # TokenSwap (Uniswap) Exchange Frontend
 
